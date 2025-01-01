@@ -8,3 +8,5 @@ function testCycle(n) {
 
 return binary;
 }
+
+// Функиция testCycle преобразует десятичное число n в его двоичное представление,

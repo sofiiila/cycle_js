@@ -7,3 +7,5 @@ function testCycle(n) {
      }
      return x;
  }
+
+//Функция testCycle вычисляет сумму чисел от 1 до n с шагом 0.5.

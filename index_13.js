@@ -6,3 +6,5 @@ function testCycle(n) {
 }
     return sum;
 }
+
+//Функция testCycle вычисляет сумму цифр десятичного числа n.
